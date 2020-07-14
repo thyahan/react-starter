@@ -1,0 +1,19 @@
+.rc-input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 12px;
+  min-width: 360px;
+}
+
+.rc-input label {
+  width: 100%;
+  height: 28px;
+}
+
+.rc-input input {
+  height: 36px;
+}
+
+#required-mark {
+  color: red;
+}
